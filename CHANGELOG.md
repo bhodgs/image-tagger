@@ -1,5 +1,11 @@
 # @bhodgson/image-tagger
 
+## 0.2.2
+
+### Patch Changes
+
+- e41a09a: Upgrade docs and ds
+
 ## 0.2.1
 
 ### Patch Changes
