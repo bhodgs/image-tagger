@@ -12,7 +12,7 @@
   "dependencies": {
     "@bhodgson/design-system": "^0.6.0",
     "@bhodgson/image-tagger": "workspace:*",
-    "preact": "^10.29.8"
+    "preact": "^11.0.1"
   },
   "devDependencies": {
     "@preact/preset-vite": "^2.10.6",
